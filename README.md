@@ -3,7 +3,8 @@ Wafir app is platform which consists of many services and it helps customer to o
 
 It contains 3 mobile apps linked with __web-services__ and coded using **flutter**, web-services built based on **FastApi** framework.
 
-* Here is Api documentation --------- [WafirApi](https://wafirsd.herokuapp.com/redoc)
+* Here is Api documentation --------- [WafirApi](https://wafirsd.herokuapp.com/redoc).
+
 ###Screenshot 
 
 
