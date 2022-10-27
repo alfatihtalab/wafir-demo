@@ -1,5 +1,5 @@
 # Wafir 
-Wafir app is platform which consists of many services and it helps customer to order from availble places.
+Wafir app is platform which consists of many services and it helps customer to order from available places.
 
 It contains 3 mobile apps linked with __web-services__ and coded using **flutter**, web-services built based on **FastApi** framework.
 
@@ -33,3 +33,4 @@ It contains 3 mobile apps linked with __web-services__ and coded using **flutter
 ![Screenshot_2022-10-08-08-21-31-021_com wafir customer wafir](https://user-images.githubusercontent.com/35189369/194691860-8f3eb1cf-3cab-42a7-a06a-5876ce7a6130.jpg)
 ![Screenshot_2022-10-08-08-21-38-623_com wafir customer wafir](https://user-images.githubusercontent.com/35189369/194691861-8fb80214-29d5-416c-8ee8-c465eb9adeab.jpg)
 ![Screenshot_2022-10-08-08-21-42-491_com wafir customer wafir](https://user-images.githubusercontent.com/35189369/194691863-7b2cdc22-e961-4af6-9e90-5d8d60bd91a2.jpg)
+
